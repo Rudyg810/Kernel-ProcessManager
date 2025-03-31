@@ -1,0 +1,1 @@
+Always follow the /.cusror/soldi-prs/index.md
